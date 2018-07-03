@@ -4,6 +4,7 @@
 */
 function mostrar()
 {
-	
-}
+	var nombre;
+
+     nombre= document.getElementById("elNombre").Value 
 
