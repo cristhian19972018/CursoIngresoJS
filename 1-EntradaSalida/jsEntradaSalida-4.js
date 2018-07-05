@@ -4,7 +4,7 @@
 */
 function mostrar()
 {
-	var nombre;
-
-     nombre= document.getElementById("elNombre").Value 
-
+var dato;
+dato = prompt ("elNombre");
+document.getElementById("elNombre").Value 
+}
